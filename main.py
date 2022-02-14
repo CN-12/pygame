@@ -2,7 +2,7 @@ import keyboard
 import os
 def check(k):
     if (k == 9) | (k == 0) :
-        print("시발년아")
+        print("")
         return 0
     return 1
 
